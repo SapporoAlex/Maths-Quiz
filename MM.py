@@ -86,7 +86,7 @@ def end():
     global total_answers, correct_answers, incorrect_answers, addition, subtraction, combination, multiplication, \
         division, both, everything
     print(f"""
-    Congratulations Momo! You got
+    Congratulations! You got
     {correct_answers} out of 10!
 
     """)
@@ -113,7 +113,7 @@ while run:
     both = False
     everything = False
     print("""
-    Hi Momo, Let's study some maths.
+    Hi, Let's study some maths.
     Do you want to do
     
     (A)ddition,
