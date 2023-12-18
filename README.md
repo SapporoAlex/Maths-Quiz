@@ -30,12 +30,19 @@ Answer 10 questions, and the program will provide you with your score.
 
 ## Options
 Addition (A): Practice addition problems.
+
 Subtraction (S): Work on subtraction problems.
+
 Combination (C): Solve a combination of addition and subtraction problems.
+
 Multiplication (M): Focus on multiplication problems.
+
 Division (D): Challenge yourself with division problems.
+
 Both (B): Practice a mix of multiplication and division problems.
+
 Everything (E): Solve problems from all operations.
+
 Quitting the Program
 If you ever want to exit the program, simply choose the "Quit (Q)" option.
 
