@@ -49,5 +49,8 @@ If you ever want to exit the program, simply choose the "Quit (Q)" option.
 ## Contribution
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
 
+## Author
+Alex McKinley
+
 ## License
 This project is licensed under the MIT License.
