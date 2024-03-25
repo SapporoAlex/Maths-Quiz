@@ -1,6 +1,8 @@
 # Math Quiz Program (for Early Elementary)
 Welcome to the Math Quiz Program! This Python program is designed to help users practice their math skills by solving random arithmetic problems. Whether you want to focus on addition, subtraction, multiplication, division, or a combination of these operations, this program has got you covered.
 
+<img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true">
+
 ## Features
 User-Friendly Interface: The program provides a simple and interactive command-line interface, making it easy for users to choose the type of math problems they want to solve.
 
